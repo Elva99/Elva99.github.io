@@ -14,7 +14,7 @@ The courses below are my required courses that I have taken at McGill.
 Mathematics
 ======
 
-  * **MATH** 133
+  * **MATH** 133 [link to Google!](http://google.com)
   * **MATH** 140
   * **MATH** 141
   * **MATH** 203
