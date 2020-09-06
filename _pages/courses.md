@@ -14,7 +14,7 @@ The courses below are my required courses that I have taken at McGill.
 Mathematics
 ======
 
-  * **MATH** 133 Linear Algebra and Geometry [Link](https://www.mcgill.ca/study/2020-2021/courses/math-133)
+  * **MATH** 133 Linear Algebra and Geometry [link](https://www.mcgill.ca/study/2020-2021/courses/math-133)
   * **MATH** 140 Calculus 1 [link](https://www.mcgill.ca/study/2020-2021/courses/math-140)
   * **MATH** 141 Calculus 2 [link](https://www.mcgill.ca/study/2020-2021/courses/math-141)
   * **MATH** 203 Principles of Statistics 1 [link](https://www.mcgill.ca/study/2020-2021/courses/math-203)
