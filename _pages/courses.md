@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Courses
-=======
+The courses below are my required courses that I have taken at McGill.
+
+* Mathematics
