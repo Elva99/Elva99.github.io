@@ -1,4 +1,3 @@
-
 ---
 title: "2020 Fall COMP 302 Programming Languages and Paradigms"
 collection: teaching
