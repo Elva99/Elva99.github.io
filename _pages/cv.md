@@ -39,7 +39,8 @@ WORKING EXPERIENCE
 
 TECHNICAL SKILLS
 ======
-* **Programming/Language:** Java, Python, C/C++, OCaml, MIPS, SQL, R, Scripts(Bash), Git, LaTEX • web front end: HTML, CSS,           Javascript
+* **Programming/Language:** Java, Python, C/C++, OCaml, MIPS, SQL, R, Scripts(Bash), Git, LaTEX 
+* **web front end:** HTML, CSS, Javascript
 * **server scripting language:** PHP
 * **DataBase:** MySQL
 * **IDE Tools:** Eclipse, Xcode, Visual Studio
@@ -77,7 +78,7 @@ PROJECTS
 
 OTHER SKILLS AND INTERESTS
 ======
-* **Languages:** English(fluent),Mandarin(native)
+* **Languages:** English(fluent), Mandarin(native)
 * **Certifications:**
   * Course Certification for Responsive Website: Code with HTML, CSS, and JavaScript(Coursera)
   * Course Certification for Database Design with MySQL(Udemy)
