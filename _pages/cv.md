@@ -39,13 +39,13 @@ WORKING EXPERIENCE
 
 TECHNICAL SKILLS
 ======
-* Programming/Language: Java, Python, C/C++, OCaml, MIPS, SQL, R, Scripts(Bash), Git, LaTEX • web front end: HTML, CSS,           Javascript
-* server scripting language: PHP
-* DataBase: MySQL
-* IDE Tools: Eclipse, Xcode, Visual Studio
-* Deep Learning: TensorFlow, Numpy, Pandas, Matplotlib, Jupyter
-* Operating Systems: MacOS(linux commands)
-* Office Tools: MS Word, Excel, PowerPoint, Outlook
+* **Programming/Language:** Java, Python, C/C++, OCaml, MIPS, SQL, R, Scripts(Bash), Git, LaTEX • web front end: HTML, CSS,           Javascript
+* **server scripting language:** PHP
+* **DataBase:** MySQL
+* **IDE Tools:** Eclipse, Xcode, Visual Studio
+* **Deep Learning:** TensorFlow, Numpy, Pandas, Matplotlib, Jupyter
+* **Operating Systems:** MacOS(linux commands)
+* **Office Tools:** MS Word, Excel, PowerPoint, Outlook
 
 
 TEACHING
