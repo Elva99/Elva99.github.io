@@ -2,14 +2,13 @@
 main:
   - title: "Courses"
     url: /courses/    
-
-  - title: "Teaching"
-    url: /talks/    
-    
+   
   - title: "Resume"
-    url: /resume/
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Contact"
+    url: /contact/
 
