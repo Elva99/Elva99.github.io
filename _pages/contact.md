@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Contact"
+title: "Contact Me"
 permalink: /contact/
 author_profile: true
 
 ---
 
 {% include base_path %}
-wechat
+**Wechat:** Elva2523
+**Facebook:** Xinran Xiong
+**Email:** xiongxinran99@gmail.com
