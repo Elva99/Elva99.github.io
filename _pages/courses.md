@@ -30,19 +30,19 @@ Mathematics
 Computer Science
 ======
 
-  * **COMP** 202
-  * **COMP** 206
-  * **COMP** 250
-  * **COMP** 252
-  * **COMP** 273
-  * **COMP** 302
-  * **COMP** 303
-  * **COMP** 310
-  * **COMP** 321
-  * **COMP** 322
-  * **COMP** 330
-  * **COMP** 350
-  * **COMP** 362
-  * **COMP** 557
-  * **COMP** 559
+  * **COMP** 202 Foundations of Programming [link](https://www.mcgill.ca/study/2020-2021/courses/comp-202)
+  * **COMP** 206 Introduction to Software Systems [link](https://www.mcgill.ca/study/2020-2021/courses/comp-206)
+  * **COMP** 250 Introduction to Computer Science [link](https://www.mcgill.ca/study/2020-2021/courses/comp-250)
+  * **COMP** 252 Honours Algorithms and Data Structures [link](https://www.mcgill.ca/study/2020-2021/courses/comp-252)
+  * **COMP** 273 Introduction to Computer Systems [link](https://www.mcgill.ca/study/2020-2021/courses/comp-273)
+  * **COMP** 302 Programming Languages and Paradigms [link](https://www.mcgill.ca/study/2020-2021/courses/comp-302)
+  * **COMP** 303 Software Design [link](https://www.mcgill.ca/study/2020-2021/courses/comp-303)
+  * **COMP** 310 Operating Systems [link](https://www.mcgill.ca/study/2020-2021/courses/comp-310)
+  * **COMP** 321 Programming Challenges [link](https://www.mcgill.ca/study/2020-2021/courses/comp-321)
+  * **COMP** 322 Introduction to C++ [link](https://www.mcgill.ca/study/2020-2021/courses/comp-322)
+  * **COMP** 330 Theory of Computation [link](https://www.mcgill.ca/study/2020-2021/courses/comp-330)
+  * **COMP** 350 Numerical Computing [link](https://www.mcgill.ca/study/2020-2021/courses/comp-350)
+  * **COMP** 362 Honours Algorithm Design [link](https://www.mcgill.ca/study/2020-2021/courses/comp-362)
+  * **COMP** 557 Fundamentals of Computer Graphics [link](https://www.mcgill.ca/study/2020-2021/courses/comp-557)
+  * **COMP** 559 Fundamentals of Computer Animation [link](https://www.mcgill.ca/study/2020-2021/courses/comp-559)
 
