@@ -2,7 +2,7 @@
 title: "2020 Fall COMP 302 Programming Languages and Paradigms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-fall-teaching-1
 venue: "McGill University, School of Computer Science"
 date: 2020-09
 location: "Montreal,Canada"
