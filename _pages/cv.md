@@ -14,9 +14,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **McGill University**, September 2018-April 2022
+  * Bachelor of Science, Honours in Computer Science
+  * Completed courses: algorithms and data structure, software systems, functional programming languages, computer systems,
+    operating systems, software design, web development
+  * McGill University In-Course Scholarship(200 CAD), regular academic year 2018-2019
+  * McGill University In-Course Scholarship(700 CAD), regular academic year 2019-2020
+  * CUM GPA:4.0
 
 Work experience
 ======
