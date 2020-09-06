@@ -30,3 +30,19 @@ Mathematics
 Computer Science
 ======
 
+  * **COMP** 202
+  * **COMP** 206
+  * **COMP** 250
+  * **COMP** 252
+  * **COMP** 273
+  * **COMP** 302
+  * **COMP** 303
+  * **COMP** 310
+  * **COMP** 321
+  * **COMP** 322
+  * **COMP** 330
+  * **COMP** 350
+  * **COMP** 362
+  * **COMP** 557
+  * **COMP** 559
+
