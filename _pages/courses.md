@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses"
+title: "CV"
 permalink: /courses/
 author_profile: true
 redirect_from:
@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-Courses
-======
