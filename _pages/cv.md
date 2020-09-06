@@ -24,16 +24,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant in McGill AI lab
+  * Under Prof. Vybihal, Joseph P, McGill University
+  * Research on project-Designed and integrated a database for the Prometheus robotic artificial intelligence system. 
+  * Participated in Remote group work on the Prometheus AI robot which can help in search and rescue operations.
+  * Proposed methods in processing the data generated from the robot brain.
+  * Designed a database for the AI system to backup the trained model.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2019: Researcher
+  * Machine Learning Lab, The Southeast University
+  * Research on project-Designed and implemented an AI system for animal classification.
+  * Discovered a suitable strategy for image data preprocessing. Created and trained a CNN in Tensorflow to measure the             difference between animals.
+  * Uploaded 10,000 photos as input to the trained model. Validation set accuracy 90%+.
 Skills
 ======
 * Skill 1
