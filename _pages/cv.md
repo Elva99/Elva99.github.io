@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-view the CV in PDF form:
-For full stack developer position: [PDF](http://Elva99.github.io/files/Full_Stack_Resume_Xinran_Xiong.pdf)
-For general software developer position: [PDF](http://Elva99.github.io/files/resume_Xinran_Xiong.pdf)
+* view the CV in PDF form:
+  * For full stack developer position: [PDF](http://Elva99.github.io/files/Full_Stack_Resume_Xinran_Xiong.pdf)
+  * For general software developer position: [PDF](http://Elva99.github.io/files/resume_Xinran_Xiong.pdf)
 
 Education
 ======
