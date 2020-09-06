@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+view the CV in PDF form:
+For full stack developer position: [PDF](http://Elva99)
+For general software developer position: [PDF]()
 
 Education
 ======
