@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "2020 Fall COMP 302 Programming Languages and Paradigms"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "McGill University, School of Computer Science"
+date: 2020-09
+location: "Montreal,Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* I worked as a TEAM tutor of COMP 302
+* The current course instructor is Brigitte Pientka [profile link](https://www.cs.mcgill.ca/~bpientka/)
 
 Heading 1
 ======
