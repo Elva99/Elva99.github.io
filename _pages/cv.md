@@ -59,12 +59,12 @@ PROJECTS
 * **Full Stack Development: Online Shopping Application**
   * **Technologies:** Java(J2EE) | Tomcat | Servlet | MySQL database | JDBC | javaScript,HTML,CSS | XML
   * Developed a full stack web application "E-center" which has a goal to take and sell orders online for smooth user experience using Java/J2EE technologies.
-  * WroteJavaScript(JQuery),HTML,CSStobuildtheuser-friendlyfrontend.
+  * Wrote JavaScript(JQuery),HTML,CSStobuildtheuser-friendlyfrontend.
   * Utilized MySQL database to store the user process and commodity information in the backend.
   * Created and executed test cases in JUnit for unit testing of application.
  
 * **Multi User Web dungeon Crawler Game**
-  * **Technologies:** C | CGI | HTML
+  * **Technologies:** |C|CGI|HTML|
   * Worked with a team to design a web game called dungeon crawler-like game which aimes to transfer the client’s score from one game page to another.
   * Developed the game page using HTML.
   * Implemented the C program in the backend that can evaluate the query string sent by client.
@@ -79,5 +79,5 @@ OTHER SKILLS AND INTERESTS
 ======
 * **Languages:** English(fluent),Mandarin(native)
 * **Certifications:**
-  * Course Certification for Responsive Website: Code with HTML, CSS, and JavaScript(Coursera);
+  * Course Certification for Responsive Website: Code with HTML, CSS, and JavaScript(Coursera)
   * Course Certification for Database Design with MySQL(Udemy)
