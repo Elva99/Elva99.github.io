@@ -12,3 +12,4 @@ redirect_from:
 The courses below are my required courses that I have taken at McGill.
 
 * Mathematics
+  * Math133
